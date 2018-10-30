@@ -1,12 +1,7 @@
-========================================================================
 
- Robust Point Matching For Multimodal Retinal Image Registration
 
- Copyright(c) 2015 Gang Wang
+ # Robust Point Matching For Multimodal Retinal Image Registration
 
- All Rights Reserved.
-
------------------------------------------------------------------------
  
  Author: Gang Wang
  
@@ -78,3 +73,11 @@ publisher={Elsevier}
 #### Ploynomial:
 
 <img src="https://github.com/gwang-cv/SURF_PIIFD_RPM/blob/master/poly.jpg?raw=true" width=300 />
+
+
+
+-----------------------------------------------------------------------
+
+ Copyright(c) 2015 Gang Wang
+
+ All Rights Reserved.
