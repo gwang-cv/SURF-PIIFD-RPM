@@ -54,9 +54,7 @@ publisher={Elsevier}
 
  	Input : 
  
- 		    (1) f1: the first image
-       
-       (2) f2: the second image
+ 		    (1) f1: the first image   (2) f2: the second image
 
  	Output: 
  
@@ -64,19 +62,19 @@ publisher={Elsevier}
  
  ========================================================================
  
-####Initial Matching:
+#### Initial Matching:
 
 <img src="https://github.com/gwang-cv/SURF_PIIFD_RPM/blob/master/initial_matching.jpg?raw=true" width=500 />
 
-####Final Matching:
+#### Final Matching:
 
 <img src="https://github.com/gwang-cv/SURF_PIIFD_RPM/blob/master/final_matching.jpg?raw=true" width=500 />
 
-####Affine:
+#### Affine:
 
 <img src="https://github.com/gwang-cv/SURF_PIIFD_RPM/blob/master/affine.jpg?raw=true" width=300 />
 
 
-####Ploynomial:
+#### Ploynomial:
 
 <img src="https://github.com/gwang-cv/SURF_PIIFD_RPM/blob/master/poly.jpg?raw=true" width=300 />
