@@ -27,24 +27,6 @@
  
  Gang Wang et al., "Robust Point Matching Method for Multimodal Retinal Image Registration", Biomedical Signal Processing and Control, 2015, Vol. 19, pp. 68-76.
 
-BibTex:
-
-@article{wang2015robust,
-title={Robust point matching method for multimodal retinal image registration},
-    
-author={Wang, Gang and Wang, Zhicheng and Chen, Yufei and Zhao, Weidong},
-    
-journal={Biomedical Signal Processing and Control},
-    
-volume={19},
-    
-pages={68--76},
-    
-year={2015},
-    
-publisher={Elsevier}
-}
-
 ----------------------------------------------------------------------
 
  	Input : 
