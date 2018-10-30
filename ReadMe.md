@@ -55,6 +55,7 @@ publisher={Elsevier}
  	Input : 
  
  		    (1) f1: the first image
+       
        (2) f2: the second image
 
  	Output: 
