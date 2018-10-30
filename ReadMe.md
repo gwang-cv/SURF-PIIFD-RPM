@@ -35,19 +35,19 @@
 BibTex:
 
 @article{wang2015robust,
-  		title={Robust point matching method for multimodal retinal image registration},
+title={Robust point matching method for multimodal retinal image registration},
     
-  		author={Wang, Gang and Wang, Zhicheng and Chen, Yufei and Zhao, Weidong},
+author={Wang, Gang and Wang, Zhicheng and Chen, Yufei and Zhao, Weidong},
     
-  		journal={Biomedical Signal Processing and Control},
+journal={Biomedical Signal Processing and Control},
     
-  		volume={19},
+volume={19},
     
-  		pages={68--76},
+pages={68--76},
     
-  		year={2015},
+year={2015},
     
-  		publisher={Elsevier}
+publisher={Elsevier}
 }
 
 ----------------------------------------------------------------------
