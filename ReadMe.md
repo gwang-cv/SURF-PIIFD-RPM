@@ -3,10 +3,6 @@
  # Robust Point Matching For Multimodal Retinal Image Registration
 
  
- Author: Gang Wang
- 
- Contact: gwang.cv@gmail.com
- 
  Version: 2014-11-30 
  
  ----------------------------------------------------------------------
