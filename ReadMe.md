@@ -55,6 +55,7 @@
 
 
 -----------------------------------------------------------------------
+Note: The code has been tested and is successful in an environment with Windows and Matlab <= 2017.
 
  Copyright(c) 2015 Gang Wang
 
